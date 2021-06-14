@@ -10,6 +10,8 @@ public class AxisBank extends BankInfo {
 		a.saving();
 		a.fixed();
 		a.deposit();
-		
+		System.out.println("saving");
+		System.out.println("fixed");
+		System.out.println("deposit");
 	}
 }
