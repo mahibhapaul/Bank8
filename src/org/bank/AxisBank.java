@@ -10,6 +10,10 @@ public class AxisBank extends BankInfo {
 		a.saving();
 		a.fixed();
 		a.deposit();
+		System.out.println("saving");
+		System.out.println("fixed");
+		System.out.println("deposit");
+
 		int a1=23,b=54,c=44;
 		if(a1>b&&a1>c) {
 			System.out.println("a is greater");
@@ -39,4 +43,5 @@ public class AxisBank extends BankInfo {
 
 		
 		
+
 	}
