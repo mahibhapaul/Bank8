@@ -41,7 +41,11 @@ public class AxisBank extends BankInfo {
 			while(a1==b);
 		}
 
-		
+	private void sysout() {
+		int z=23;
+		int x=67;
+
+	}	
 		
 
 	}
